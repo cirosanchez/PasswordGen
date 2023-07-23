@@ -85,9 +85,10 @@ After choosing your option you'll have 3 ways:
 
 ##  Authors <a name = "authors"></a>
 
-- [@cirosanchez](https://github.com/cirosanchez) - Idea and Coding
+- [@cirosanchez](https://github.com/cirosanchez) - Coding
 
 ##  Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
+- [@parzivalhack](https://github.com/parzivalhack) - Idea
 
