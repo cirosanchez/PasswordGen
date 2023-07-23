@@ -47,21 +47,21 @@ echo -e "$cyan [3] $bWhite [Secure] Generate a password with 24 characters"
 read option1
 clear
 if [ $option1 -eq 1 ]; then
-    gen=$(python3 python/gen8.py)
+    gen=$(python3 src/python/gen8.py)
     echo -e "$cyan Your password is: $bWhite $gen"
     read a
     clear
     exit
     fi
 if [ $option1 -eq 2 ]; then
-    gen=$(python3 python/gen16.py)
+    gen=$(python3 src/python/gen16.py)
     echo -e "$cyan Your password is: $bWhite $gen"
     read a
     clear
     exit
     fi
 if [ $option1 -eq 3 ]; then
-    gen=$(python3 python/gen24.py)
+    gen=$(python3 src/python/gen24.py)
     echo -e "$cyan Your password is: $bWhite $gen"
     read a
     clear
