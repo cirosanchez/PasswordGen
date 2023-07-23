@@ -1,0 +1,2 @@
+clear
+./src/PasswordGen.sh
